@@ -137,7 +137,8 @@ streamlit run app.py
 ## 👤 Author
 
 **Chinmay Patil**
-AI & Data Science Undergraduate
+
+AI & Data Science Undergraduate --
 Focused on Machine Learning Systems and Applied AI
 
 ```
